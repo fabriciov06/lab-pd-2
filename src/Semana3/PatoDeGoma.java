@@ -8,6 +8,6 @@ package Semana3;
  *
  * @author sistemas
  */
-public class PatoDeGoma {
+public class PatoDeGoma extends Pato{
     
 }

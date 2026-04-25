@@ -8,6 +8,6 @@ package Semana3;
  *
  * @author sistemas
  */
-public class PatoCabezaRoja {
-    
+public class PatoCabezaRoja extends Pato{
+        
 }

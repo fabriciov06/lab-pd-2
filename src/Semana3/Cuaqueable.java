@@ -8,6 +8,6 @@ package Semana3;
  *
  * @author sistemas
  */
-public class Cuaqueable {
-    
+public interface Cuaqueable {
+    public void cuaquear();
 }

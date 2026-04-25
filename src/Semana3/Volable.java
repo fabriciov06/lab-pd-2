@@ -8,6 +8,7 @@ package Semana3;
  *
  * @author sistemas
  */
-public class Volable {
+public interface Volable {
+    void volar();
     
 }
