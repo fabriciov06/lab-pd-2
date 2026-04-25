@@ -10,4 +10,9 @@ package Semana3;
  */
 public class PatoDeGoma extends Pato{
     
+    @Override
+    public void mostrar() {
+    System.out.println("Yo soy un PATITO DE GOMA");
+    
+    }
 }

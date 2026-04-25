@@ -10,4 +10,10 @@ package Semana3;
  */
 public class PatoSenuelo extends Pato{
     
+     @Override
+     public void mostrar() {
+     System.out.println("Yo soy PATO SEÑUELO");  
+     
+     }
+     
 }

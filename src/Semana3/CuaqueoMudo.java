@@ -8,6 +8,11 @@ package Semana3;
  *
  * @author sistemas
  */
-public class CuaqueoMudo {
+public class CuaqueoMudo implements Cuaqueable{
+    
+    @Override
+    public void cuaquear() {
+        System.out.println("<<Silencio>>");
+    }
     
 }
