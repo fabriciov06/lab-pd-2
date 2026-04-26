@@ -4,7 +4,7 @@ public class PatoDeGoma extends Pato{
     
     public void PatoDeGoma(){
         volable=new NoVuela();
-        cuaqueable=new Chirreo();
+        cuaqueable= new Chirreo();
     }
     
     @Override

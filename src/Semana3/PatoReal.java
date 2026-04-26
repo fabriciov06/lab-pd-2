@@ -4,7 +4,7 @@ public class PatoReal extends Pato{
     
     public void PatoReal(){
         volable=new VuelaConAlas();
-        cuaqueable=new Cuaqueo();
+        cuaqueable= new Cuaqueo();    
     }
     
     @Override

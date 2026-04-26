@@ -3,7 +3,7 @@ package Semana3;
 public class PatoCabezaRoja extends Pato{
     
         public void PatoCabezaRoja(){
-            volable=new VuelaConAlas();
+            volable= new VuelaConAlas();
             cuaqueable=new Cuaqueo();
         }    
     
