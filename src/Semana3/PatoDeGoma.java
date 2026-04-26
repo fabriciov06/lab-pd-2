@@ -7,6 +7,7 @@ public class PatoDeGoma extends Pato{
         cuaqueable= new Chirreo();
     }
     
+    
     @Override
     public void mostrar() {
     System.out.println("Yo soy un PATITO DE GOMA");

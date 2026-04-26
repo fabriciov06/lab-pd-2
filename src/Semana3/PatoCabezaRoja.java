@@ -6,6 +6,7 @@ public class PatoCabezaRoja extends Pato{
             volable= new VuelaConAlas();
             cuaqueable=new Cuaqueo();
         }    
+        
     
         @Override
         public void mostrar() {

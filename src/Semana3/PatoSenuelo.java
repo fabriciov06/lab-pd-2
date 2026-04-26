@@ -7,6 +7,7 @@ public class PatoSenuelo extends Pato{
         cuaqueable= new CuaqueoMudo();
     }
     
+    
      @Override
      public void mostrar() {
      System.out.println("Yo soy PATO SEÑUELO");  
