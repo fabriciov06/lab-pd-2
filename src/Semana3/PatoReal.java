@@ -1,14 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Semana3;
 
-/**
- *
- * @author sistemas
- */
 public class PatoReal extends Pato{
+    
+    public void PatoReal(){
+        volable=new VuelaConAlas();
+        cuaqueable=new Cuaqueo();
+    }
     
     @Override
     public void mostrar() {
