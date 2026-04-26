@@ -1,8 +1,8 @@
 package Semana3;
 
 public abstract class Pato {
-    Volable volable;
-    Cuaqueable cuaqueable;
+    protected Volable volable;
+    protected Cuaqueable cuaqueable;
     
     
     public void setVolable(Volable fb) {

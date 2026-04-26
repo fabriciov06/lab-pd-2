@@ -2,7 +2,7 @@ package Semana3;
 
 public class PatoReal extends Pato{
     
-    public void PatoReal(){
+    public PatoReal(){
         volable=new VuelaConAlas();
         cuaqueable= new Cuaqueo();    
     }

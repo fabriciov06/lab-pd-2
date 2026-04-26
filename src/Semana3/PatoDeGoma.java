@@ -2,7 +2,7 @@ package Semana3;
 
 public class PatoDeGoma extends Pato{
     
-    public void PatoDeGoma(){
+    public PatoDeGoma(){
         volable=new NoVuela();
         cuaqueable= new Chirreo();
     }
